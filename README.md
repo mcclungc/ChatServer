@@ -3,7 +3,6 @@
 #Project 1
 #README.TXT
 
-#programs tested on flip2.engr.oregonstate.edu
 
 To run chatserve.py, type:
 
